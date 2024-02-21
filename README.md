@@ -3,7 +3,7 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 
 **Sample Questions**
 
-Compare the sales and orders using single chart/
+Compare the sales and orders using single chart. <br>
 Which month got the highest sales and orders?/
 Who purchased more- men or women in 2022?/
 What are different order status in 2022?/
