@@ -13,6 +13,8 @@ Which channel is contributing to maximum sales?<br>
 Highest selling category?, etc.
 
 
-lling="no"></iframe>
+
+![Screenshot](![image](https://github.com/sagarkumarmishra/Sales-Dashboard/assets/80491632/d701a679-c3bb-4965-8efe-ac3b7d30e77c)
+.png)
 
 
