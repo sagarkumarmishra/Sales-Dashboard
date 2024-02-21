@@ -1,6 +1,9 @@
 # Sales-Dashboard
 Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023. 
 
+![Screenshot](file:///G:/Interview%20Preparation/Excel%20Dashboards/Brinda.htm.png)
+
+
 **Sample Questions**
 
 Compare the sales and orders using single chart. <br>
@@ -14,7 +17,6 @@ Highest selling category?, etc.
 
 
 
-![Screenshot](![image](https://github.com/sagarkumarmishra/Sales-Dashboard/assets/80491632/d701a679-c3bb-4965-8efe-ac3b7d30e77c)
-.png)
+
 
 
