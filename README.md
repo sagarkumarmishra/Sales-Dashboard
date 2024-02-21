@@ -16,6 +16,7 @@ Highest selling category?, etc.
 
 
 
+![Screenshot]![image](https://github.com/sagarkumarmishra/Sales-Dashboard/assets/80491632/c4e46123-9b6b-4097-abbb-1d6edc1fda7d)
 
 
 
