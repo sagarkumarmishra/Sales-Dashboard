@@ -1,7 +1,7 @@
 # Sales-Dashboard
 Vrinda store wants to create an annual sales report for 2023. So that, Vrinda can understand their customers and grow more sales in 2024. 
 
-![Screenshot](![Brinda](https://github.com/sagarkumarmishra/Sales-Dashboard/assets/80491632/368fef73-ad5e-4de5-959b-6bc2a2e1c318)
+![Brinda](https://github.com/sagarkumarmishra/Sales-Dashboard/assets/80491632/368fef73-ad5e-4de5-959b-6bc2a2e1c318)
 
 **Sample Questions**
 
@@ -14,7 +14,7 @@ Relation between age and gender based on number of orders.<br>
 Which channel is contributing to maximum sales?<br>
 Highest selling category?, etc.
 
-![Screenshot](![Solution](https://github.com/sagarkumarmishra/Sales-Dashboard/assets/80491632/90ddb6c1-c519-437e-8063-a94a27ac1fde)
+(![Solution](https://github.com/sagarkumarmishra/Sales-Dashboard/assets/80491632/90ddb6c1-c519-437e-8063-a94a27ac1fde)
 .png)
 
 
