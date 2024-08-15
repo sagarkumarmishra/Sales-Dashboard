@@ -14,8 +14,8 @@ Relation between age and gender based on number of orders.<br>
 Which channel is contributing to maximum sales?<br>
 Highest selling category?, etc.
 
-(![Solution](https://github.com/sagarkumarmishra/Sales-Dashboard/assets/80491632/90ddb6c1-c519-437e-8063-a94a27ac1fde)
-.png)
+![Solution](https://github.com/sagarkumarmishra/Sales-Dashboard/assets/80491632/90ddb6c1-c519-437e-8063-a94a27ac1fde)
+
 
 
 
